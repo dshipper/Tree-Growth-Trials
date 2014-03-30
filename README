@@ -1,0 +1,5 @@
+README
+
+Yield-times CSV files are the output from outputGrowthPercentageTrials() with different growth rates. Basically what it shows is the distribution of the yield of a forest for particular growth rates. 
+
+Burn-yieldtimes CSV files are the output from outputBurnPercentageTrials() with different growth rates. What is shows is the distribution of the percent of the forest that is burned down with different growth rates.
